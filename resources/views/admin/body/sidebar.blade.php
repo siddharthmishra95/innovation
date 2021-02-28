@@ -30,7 +30,7 @@
 			<span>Dashboard</span>
           </a>
         </li>
-
+<!--Manage-->
         <li class="treeview {{ ($prefix == '/users') ? 'active': '' }} " >
           <a href="#">
             <i data-feather="message-circle"></i>
